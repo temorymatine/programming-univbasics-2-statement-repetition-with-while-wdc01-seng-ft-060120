@@ -1,1 +1,8 @@
-# Write your code here
+final = 1 
+count = 10 
+
+while (count > final)
+puts count 
+count-1
+end
+puts "Happy New Year!"
