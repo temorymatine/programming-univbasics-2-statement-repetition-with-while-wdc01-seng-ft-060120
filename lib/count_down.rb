@@ -1,4 +1,4 @@
-final = 1 
+final = 0
 count = 10 
 
 while (count > final)
